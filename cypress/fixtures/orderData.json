@@ -1,0 +1,8 @@
+{
+	"name": "John Doe",
+	"country": "United States",
+	"city": "New York",
+    "creditCard": "1234 5678 9012 3456",
+	"month": "December",
+	"year": "2023"
+}
