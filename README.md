@@ -1,4 +1,4 @@
-# **Cypress-Cucumber-Web-Automation-Testing-Framework**
+# **Cypress-Cucumber-POM-Web-Automation-Testing-Framework**
 
 This repository contains the development of a Cypress and Cucumber project for testing a web page. The application implements a framework from scratch to automate the process of testing various functionalities of the website.
 
